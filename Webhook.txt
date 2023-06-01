@@ -1,1 +1,3 @@
-Bu repository'ye herhangi bir push yapilirsa Jenkins Github-Webhook job otomatik tetiklrnrcek.
+Bu repository'ye herhangi bir push yapilirsa Jenkins Github-Webhook job otomatik tetiklenecek.
+
+...
